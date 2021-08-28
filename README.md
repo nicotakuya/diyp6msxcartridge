@@ -12,6 +12,8 @@ wr.prg : Writing software(for Pi STARTER).
 
 ## movie
 
+https://www.youtube.com/watch?v=-RcxGhLIrCQ
+
 https://www.youtube.com/watch?v=LfQrAbjb77U
 
 ## images
