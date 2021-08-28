@@ -1,4 +1,4 @@
-# diy p6/msx cartridge
+# DIY P6/MSX Cartridge
 
 ## overview
 
